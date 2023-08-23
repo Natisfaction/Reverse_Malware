@@ -1,0 +1,173 @@
+{
+  "filemd5":"71B6A493388E7D0B40C83CE903BC6B04",
+  "filename":"perfc.dat",
+  "structures": {
+    "cls_0x10002ccf": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"mbr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":2,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x10002cf1" ]
+	}
+      },
+      "methods": {
+	"0x10002ccf": {
+	  "demangled_name":"",
+	  "ea":"0x10002ccf",
+	  "import":false,
+	  "name":"meth_0x10002ccf",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x10002ccf",
+      "size":2,
+      "vftables": {}
+    },
+    "cls_0x10002d82": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"mbr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":2,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x10002dbb" ]
+	}
+      },
+      "methods": {
+	"0x10002d82": {
+	  "demangled_name":"",
+	  "ea":"0x10002d82",
+	  "import":false,
+	  "name":"meth_0x10002d82",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x10002d82",
+      "size":2,
+      "vftables": {}
+    },
+    "cls_0x10006f91": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"mbr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":2,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x10006fa3" ]
+	}
+      },
+      "methods": {
+	"0x10006f91": {
+	  "demangled_name":"",
+	  "ea":"0x10006f91",
+	  "import":false,
+	  "name":"meth_0x10006f91",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x10006f91",
+      "size":2,
+      "vftables": {}
+    },
+    "cls_0x100091fa": {
+      "demangled_name":"",
+      "members": {
+	"0x0": {
+	  "base":false,
+	  "name":"mbr_0x0",
+	  "offset":"0x0",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x100091ff" ]
+	},
+	"0x4": {
+	  "base":false,
+	  "name":"mbr_0x4",
+	  "offset":"0x4",
+	  "parent":false,
+	  "size":4,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x1000921f", "0x10009260", "0x10009273" ]
+	},
+	"0x8": {
+	  "base":false,
+	  "name":"mbr_0x8",
+	  "offset":"0x8",
+	  "parent":false,
+	  "size":2,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x1000922f" ]
+	}
+      },
+      "methods": {
+	"0x100091fa": {
+	  "demangled_name":"",
+	  "ea":"0x100091fa",
+	  "import":false,
+	  "name":"meth_0x100091fa",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x100091fa",
+      "size":10,
+      "vftables": {}
+    },
+    "cls_0x10009322": {
+      "demangled_name":"",
+      "members": {
+	"0x14": {
+	  "base":false,
+	  "name":"mbr_0x14",
+	  "offset":"0x14",
+	  "parent":false,
+	  "size":2,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x10009325" ]
+	},
+	"0x6": {
+	  "base":false,
+	  "name":"mbr_0x6",
+	  "offset":"0x6",
+	  "parent":false,
+	  "size":2,
+	  "struc":"",
+	  "type":"",
+	  "usages": ["0x1000932d" ]
+	}
+      },
+      "methods": {
+	"0x10009322": {
+	  "demangled_name":"",
+	  "ea":"0x10009322",
+	  "import":false,
+	  "name":"meth_0x10009322",
+	  "type":"meth"
+	}
+      },
+      "name":"cls_0x10009322",
+      "size":22,
+      "vftables": {}
+    }
+  },
+  "vcalls": {},
+  "version":"2.2.0"
+}
